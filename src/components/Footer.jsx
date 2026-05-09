@@ -106,8 +106,8 @@ export default function Footer() {
             © {new Date().getFullYear()} Sujit Sivarajan, CPA. All rights reserved.
           </p>
           <div className="footer-bottom-links">
-            <a href="#" className="footer-bottom-link">Privacy Policy</a>
-            <a href="#" className="footer-bottom-link">Terms of Service</a>
+            {/* <a href="#" className="footer-bottom-link">Privacy Policy</a> */}
+            {/* <a href="#" className="footer-bottom-link">Terms of Service</a> */}
           </div>
         </div>
       </div>
