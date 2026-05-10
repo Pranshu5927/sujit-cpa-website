@@ -49,7 +49,7 @@ export default function Navbar() {
             SS
           </motion.div>
           <div className="logo-text">
-            <span className="logo-name">Sujit Sivarajan</span>
+            <span className="logo-name">SujitS</span>
             <span className="logo-cpa">CPA</span>
           </div>
         </Link>

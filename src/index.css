@@ -2150,15 +2150,15 @@ input, textarea, select {
   --bg-card: #FFFFFF;
   --bg-card-hover: #F9F6F0;
   --border: rgba(0, 0, 0, 0.09);
-  --border-gold: rgba(210, 120, 80, 0.3);
-  --gold: #D4795A;
-  --gold-light: #E08E72;
-  --gold-dark: #B86044;
-  --gold-gradient: linear-gradient(135deg, #D4795A 0%, #E08E72 50%, #D4795A 100%);
-  --white: #1A1A2E;
+  --border-gold: rgba(13, 115, 119, 0.3);
+  --gold: #0D7377;
+  --gold-light: #148F94;
+  --gold-dark: #095A5D;
+  --gold-gradient: linear-gradient(135deg, #0D7377 0%, #148F94 50%, #0D7377 100%);
+  --white: #1C1917;
   --text-secondary: #4A5568;
   --text-muted: #718096;
-  --shadow-gold: 0 0 40px rgba(210, 120, 80, 0.12);
+  --shadow-gold: 0 0 40px rgba(13, 115, 119, 0.12);
   --shadow-card: 0 4px 24px rgba(0, 0, 0, 0.08);
 }
 
@@ -2176,13 +2176,13 @@ input, textarea, select {
 }
 
 [data-theme="light"] ::selection {
-  background: rgba(155, 115, 10, 0.2);
+  background: rgba(13, 115, 119, 0.2);
 }
 
 /* Navbar */
 [data-theme="light"] .navbar.scrolled {
   background: rgba(255, 255, 255, 0.95);
-  box-shadow: 0 1px 0 rgba(196, 98, 58, 0.12), 0 4px 24px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 1px 0 rgba(13, 115, 119, 0.12), 0 4px 24px rgba(0, 0, 0, 0.08);
 }
 
 [data-theme="light"] .mobile-menu {
@@ -2202,7 +2202,7 @@ input, textarea, select {
 }
 
 [data-theme="light"] .hero-orb-1 {
-  background: radial-gradient(circle, rgba(155, 115, 10, 0.08) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(13, 115, 119, 0.08) 0%, transparent 70%);
 }
 
 [data-theme="light"] .hero-orb-2 {
@@ -2211,17 +2211,17 @@ input, textarea, select {
 
 [data-theme="light"] .hero-center-circle {
   background: radial-gradient(circle at 40% 40%, #E8E4D8, #F5F0E8);
-  box-shadow: 0 0 60px rgba(196, 98, 58, 0.06), inset 0 0 40px rgba(0, 0, 0, 0.02);
+  box-shadow: 0 0 60px rgba(13, 115, 119, 0.06), inset 0 0 40px rgba(0, 0, 0, 0.02);
 }
 
 [data-theme="light"] .hero-badge {
-  background: rgba(196, 98, 58, 0.06);
+  background: rgba(13, 115, 119, 0.06);
 }
 
 /* Contact & About hero backgrounds */
 [data-theme="light"] .contact-hero-bg,
 [data-theme="light"] .about-hero-bg {
-  background: radial-gradient(ellipse at 50% 0%, rgba(196, 98, 58, 0.06) 0%, transparent 60%);
+  background: radial-gradient(ellipse at 50% 0%, rgba(13, 115, 119, 0.06) 0%, transparent 60%);
 }
 
 [data-theme="light"] .contact-hero-grid,
@@ -2238,7 +2238,7 @@ input, textarea, select {
 }
 
 [data-theme="light"] .about-photo-placeholder::before {
-  background: radial-gradient(circle at 30% 40%, rgba(196, 98, 58, 0.05) 0%, transparent 60%);
+  background: radial-gradient(circle at 30% 40%, rgba(13, 115, 119, 0.05) 0%, transparent 60%);
 }
 
 /* Cards */
@@ -2273,7 +2273,7 @@ input, textarea, select {
 
 [data-theme="light"] .services-banner-bg {
   background:
-    radial-gradient(ellipse at 20% 50%, rgba(196, 98, 58, 0.04) 0%, transparent 60%),
+    radial-gradient(ellipse at 20% 50%, rgba(13, 115, 119, 0.04) 0%, transparent 60%),
     radial-gradient(ellipse at 80% 50%, rgba(26, 74, 128, 0.04) 0%, transparent 60%),
     linear-gradient(135deg, #EAE6DA 0%, #F5F0E8 100%);
 }
@@ -2313,7 +2313,7 @@ input, textarea, select {
 }
 
 [data-theme="light"] .about-cta-card::before {
-  background: radial-gradient(ellipse at 50% 0%, rgba(196, 98, 58, 0.05) 0%, transparent 60%);
+  background: radial-gradient(ellipse at 50% 0%, rgba(13, 115, 119, 0.05) 0%, transparent 60%);
 }
 
 /* ============================================

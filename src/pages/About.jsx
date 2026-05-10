@@ -137,7 +137,7 @@ export default function About() {
                   Today, I bring this experience into my public practice, offering fractional CFO services to startups and small businesses, as well as full-cycle accounting and tax services for entrepreneurs and self-employed professionals.
                 </p>
                 <p className="about-story-text">
-                  Outside of work, I'm a proud husband and father of two boys who are competitive athletes. My wife, also a dedicated professional, and I have built a life that balances career ambition with a strong commitment to family.
+                  Outside of work, I'm a proud husband and father of two boys who are competitive athletes. My wife, also a dedicated professional, and together we have built a life that balances career ambition with a strong commitment to family.
                 </p>
 
                 <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap', marginTop: '2rem' }}>

@@ -30,7 +30,7 @@ const services = [
     title: 'Corporate Tax',
     description: 'Strategic tax planning & compliance to support your business goals.',
     features: [
-      'Corporate tax filings (T2)',
+      'Corporate tax filings',
       'Tax planning strategies',
       'Owner-manager optimization',
       'GST/HST filings & compliance',

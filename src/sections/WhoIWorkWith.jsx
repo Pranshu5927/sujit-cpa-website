@@ -29,8 +29,8 @@ const clients = [
     description: 'Whether you are an early stage start-up, scaling your business or preparing to exit, I help you build value & make strategic decisions.',
     features: [
       'Early Stage Foundation',
-      'Investor Ready Performance',
-      'Scale & Growth',
+      'Scale & Investor Ready',
+      'Growth & Performance',
       'Exit Readiness',
     ],
   },
